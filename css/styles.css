@@ -1,0 +1,13 @@
+.description{
+    font-weight: bold;
+    color: burlywood;
+    
+}
+.title{
+    font-style: italic;
+    font-family: sans-serif;
+}
+.intro{
+    color: chocolate;
+    font-family: cursive
+}
